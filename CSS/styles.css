@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: darkred;
+}
+li{
+    color: darkblue;
+    font-size: 30px;
+}
+p{
+    color: crimson;
+    font-size: 25px;
+}
